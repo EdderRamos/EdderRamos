@@ -1,4 +1,4 @@
-![Edder Ramos Banner](link_image)
+![Edder Ramos Banner](https://github.com/EdderRamos/EdderRamos/blob/main/accets/front_page.jpg)
 
 
 ## 👋 &nbsp;Hey there! I'm Edder Ramos
