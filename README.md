@@ -3,7 +3,7 @@
 
 ## 👋 &nbsp;Hey there! I'm Edder Ramos
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me :D 
 
 👨‍💻 &nbsp;I am Currently Working at personal projects.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
